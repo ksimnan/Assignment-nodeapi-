@@ -1,6 +1,6 @@
 # Assignment-nodeapi-
 
-In the project directory RUN node app
-Open the index.html
-fill the entries
-api will render result in JSON
+1>In the project directory RUN node app
+2>Open the index.html
+3>fill the entries
+4>api will render result in JSON
